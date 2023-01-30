@@ -1,0 +1,12 @@
+E:\LapTrinhWin\MiniWord_Nguyen\MiniWord_Nguyen\bin\Debug\MiniWord_Nguyen.exe.config
+E:\LapTrinhWin\MiniWord_Nguyen\MiniWord_Nguyen\bin\Debug\MiniWord_Nguyen.exe
+E:\LapTrinhWin\MiniWord_Nguyen\MiniWord_Nguyen\bin\Debug\MiniWord_Nguyen.pdb
+E:\LapTrinhWin\MiniWord_Nguyen\MiniWord_Nguyen\obj\Debug\MiniWord_Nguyen.csproj.AssemblyReference.cache
+E:\LapTrinhWin\MiniWord_Nguyen\MiniWord_Nguyen\obj\Debug\MiniWord_Nguyen.Properties.Resources.resources
+E:\LapTrinhWin\MiniWord_Nguyen\MiniWord_Nguyen\obj\Debug\MiniWord_Nguyen.csproj.GenerateResource.cache
+E:\LapTrinhWin\MiniWord_Nguyen\MiniWord_Nguyen\obj\Debug\MiniWord_Nguyen.csproj.CoreCompileInputs.cache
+E:\LapTrinhWin\MiniWord_Nguyen\MiniWord_Nguyen\obj\Debug\MiniWord_Nguyen.exe
+E:\LapTrinhWin\MiniWord_Nguyen\MiniWord_Nguyen\obj\Debug\MiniWord_Nguyen.pdb
+E:\LapTrinhWin\MiniWord_Nguyen\MiniWord_Nguyen\obj\Debug\MiniWord_Nguyen.frmNguyen.resources
+E:\LapTrinhWin\MiniWord_Nguyen\MiniWord_Nguyen\obj\Debug\MiniWord_Nguyen.frmTK.resources
+E:\LapTrinhWin\MiniWord_Nguyen\MiniWord_Nguyen\obj\Debug\MiniWord_Nguyen.ThayThe.resources
